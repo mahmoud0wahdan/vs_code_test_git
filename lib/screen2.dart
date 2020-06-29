@@ -16,6 +16,9 @@ class Screen2 extends StatelessWidget {
           getInstance("7"),
           getInstance("8"),
           getInstance("9"),
+          getInstance("5"),
+          getInstance("6"),
+          getInstance("7"),
         ],
       ),
       body: Center(
